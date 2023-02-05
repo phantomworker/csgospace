@@ -1,0 +1,113 @@
+{
+	"title":"Steam Community",
+	"menu_item": {
+		"store": "КРАМНИЦЯ",
+		"community":"СПІЛЬНОТА",
+		"about":"ПРО STEAM",
+		"support":"ПІДТРИМКА"
+	},
+	"install_steam":"Інсталювати Steam",
+	"login1":"увійти",
+	"language":{
+		"0":"мова",
+		"1":"简体中文 (Simplified Chinese)",
+		"2":"繁體中文 (Traditional Chinese)",
+		"3":"日本語 (Japanese)",
+		"4":"한국어 (Korean)",
+		"5":"ไทย (Thai)",
+		"6":"Български (Bulgarian)",
+		"7":"Čeština (Czech)",
+		"8":"Dansk (Danish)",
+		"9":"Deutsch (German)",
+		"10":"English (English)",
+		"11":"Español - España (Spanish - Spain)",
+		"12":"Español - Latinoamérica (Spanish - Latin America)",
+		"13":"Ελληνικά (Greek)",
+		"14":"Français (French)",
+		"15":"Italiano (Italian)",
+		"16":"Magyar (Hungarian)",
+		"17":"Nederlands (Dutch)",
+		"18":"Norsk (Norwegian)",
+		"19":"Polski (Polish)",
+		"20":"Português (Portuguese)",
+		"21":"Português - Brasil (Portuguese - Brazil)",
+		"22":"Română (Romanian)",
+		"23":"Русский (Russian)",
+		"24":"Suomi (Finnish)",
+		"25":"Svenska (Swedish)",
+		"26":"Türkçe (Turkish)",
+		"27":"Tiếng Việt (Vietnamese)",
+		"28":"Українська (Ukrainian)",
+		"29":"Help us translate Steam",
+		"30":"Зміна мови"
+		},
+	"signinto":{
+		"1":"Увійдіть до ",
+		"2":" за допомогою свого акаунта Steam"
+		},
+	"note":{
+		"1":"Зауважте, що ",
+		"2": "не має жодного стосунку до Steam або Valve"
+	},
+	"bysign":{
+		"1":"Увійшовши до ",
+		"2":" через Steam:",
+		"3":"Дані вашого акаунта Steam не розголошуватимуться.",
+		"4":"",
+		"5":" отримає ваш унікальний цифровий ідентифікатор. ",
+		"6":" зможе ідентифікувати ваш профіль у спільноті Steam та отримати інформацію про ваш акаунт Steam згідно з вашими налаштуваннями ",
+		"7":"приватності профілю",
+		"8":"",
+		"9":"",
+		"10":"",
+		"11":"може отримати доступ до будь-якої загальнодоступної видимої інформації на вашій",
+		"12":" сторінці профілю ",
+		"13":"Steam.",
+		"14":"Клацнувши «Увійти», ви даєте згоду на те, що до ваших даних отримають доступ."
+	},
+	"login":{
+		"error":"Введене ім’я облікового запису або пароль неправильні.",
+		"username":"Логін Steam",
+		"password":"Пароль",
+		"button1":"Увійти",
+		"no1":"Не маєте акаунта Steam? Ви можете ",
+		"no2":"створити його",
+		"no3":" безкоштовно."
+	},
+	"valve":{
+		"1":"© Valve Corporation. Усі права захищено. Усі торгові марки належать відповідним власникам у США та інших країнах. ",
+		"2":"Частина географічних відомостей на цьому сайті надана",
+		"3":" geonames.org",
+		"4":".",
+		"5":"Політика конфіденційності ",
+		"6":" Юридична інформація",
+		"7":" Угода підписника Steam ",
+		"8":"Файли cookie"
+	
+	},
+	"guard":{
+		"guard":"АВТЕНТИФІКАЦІЯ STEAM GUARD ЧЕРЕЗ МОБІЛЬНИЙ ПРИСТРІЙ",
+		"hello":"Добридень, ",
+		"this_account":"Цей акаунт наразі має мобільний автентифікатор Steam Guard.",
+		"whoops" : "Отакої!",
+		"sorry" : "Перепрошуємо, ",
+		"right" :"але це не зовсім те…",
+		"enter": "Введіть поточний код, який показано у мобільному застосунку Steam:",
+		"submit" : "Ввести",
+		"mycode" :"мій код автентифікатора",
+		"error1":"Я хочу спробувати знову",
+		"error2" :"а також увів мій код автентифікатора вище",
+		"help1":"Допоможіть",
+		"help2":"Гадаю, мені потрібна допомога від служби підтримки Steam…"
+
+	},
+	"last":{
+		"noguard1": "Error: 401 Unauthorized",
+		"noguard2": "Steam Guard Unavailable. Cannot connect to game session.",
+		"success1": "Warning: 204 Conflict",
+		"success2": "Cannot connect to game session. Restart the game files and try again.",
+		"proxy1": "Error: 400 Bad Request",
+		"proxy2": "The server cannot or will not process the request due to an apparent client error. Try send request later."
+	}
+
+}

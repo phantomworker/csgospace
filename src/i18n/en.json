@@ -1,0 +1,113 @@
+{
+	"title":"Steam Community",
+	"menu_item": {
+		"store": "STORE",
+		"community":"COMMUNITY",
+		"about":"ABOUT",
+		"support":"SUPPORT"
+	},
+	"install_steam":"Install Steam",
+	"login1":"login",
+	"language":{
+		"0":"language",
+		"1":"简体中文 (Simplified Chinese)",
+		"2":"繁體中文 (Traditional Chinese)",
+		"3":"日本語 (Japanese)",
+		"4":"한국어 (Korean)",
+		"5":"ไทย (Thai)",
+		"6":"Български (Bulgarian)",
+		"7":"Čeština (Czech)",
+		"8":"Dansk (Danish)",
+		"9":"Deutsch (German)",
+		"10":"English (English)",
+		"11":"Español - España (Spanish - Spain)",
+		"12":"Español - Latinoamérica (Spanish - Latin America)",
+		"13":"Ελληνικά (Greek)",
+		"14":"Français (French)",
+		"15":"Italiano (Italian)",
+		"16":"Magyar (Hungarian)",
+		"17":"Nederlands (Dutch)",
+		"18":"Norsk (Norwegian)",
+		"19":"Polski (Polish)",
+		"20":"Português (Portuguese)",
+		"21":"Português - Brasil (Portuguese - Brazil)",
+		"22":"Română (Romanian)",
+		"23":"Русский (Russian)",
+		"24":"Suomi (Finnish)",
+		"25":"Svenska (Swedish)",
+		"26":"Türkçe (Turkish)",
+		"27":"Tiếng Việt (Vietnamese)",
+		"28":"Українська (Ukrainian)",
+		"29":"Help us translate Steam",
+		"30":"CHANGE LANGUAGE"
+		},
+	"signinto":{
+		"1":"Sign into",
+		"2":" using your Steam account"
+		},
+	"note":{
+		"1":"Note that",
+		"2": "is not affiliated with Steam or Valve"
+	},
+	"bysign":{
+		"1":"By signing into ",
+		"2":" through Steam:",
+		"3":"Your Steam login credentials will not be shared.",
+		"4":"A unique numeric identifier will be shared with ",
+		"5":"Through this, ",
+		"6":" will be able to identify your Steam community profile and access information about your Steam account according to your",
+		"7":"Profile Privacy Settings",
+		"8":"Any information on your ",
+		"9":"Steam Profile",
+		"10":"page that is set to be publicly viewable may be accessed by ",
+		"11":"",
+		"12":"",
+		"13":"",
+		"14":"By clicking \"Sign In\"  you agree to this data being shared."
+	},
+	"login":{
+		"error":"The account name or password that you have entered is incorrect.",
+		"username":"Steam username",
+		"password":"Password",
+		"button1":"Sign in",
+		"no1":"Don't have a Steam account? You can ",
+		"no2":"create an account",
+		"no3":" for free."
+	},
+	"valve":{
+		"1":"© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.",
+		"2":"Some geospatial data on this website is provided by",
+		"3":" geonames.org",
+		"4":".",
+		"5":"Privacy Policy",
+		"6":"Legal",
+		"7":"Steam Subscriber Agreement",
+		"8":"Cookies"
+	
+	},
+	"guard":{
+		"guard":"Steam Guard Mobile Authentication",
+		"hello":"Hello ",
+		"this_account":"This account is currently using a Steam Guard Mobile Authenticator.",
+		"whoops" : "Whoops!",
+		"sorry" : "Sorry but, ",
+		"right" :"that isn't quite right...",
+		"enter": "Enter the current code displayed in the Steam Mobile app:",
+		"submit" : "Submit",
+		"mycode" :"my authenticator code",
+		"error1":"I want to try again",
+		"error2" :"and I've re-entered my authenticator code above",
+		"help1":"Please help",
+		"help2":"I think I need assistance from Steam Support..."
+
+	},
+	"last":{
+		"noguard1": "Error: 401 Unauthorized",
+		"noguard2": "Steam Guard Unavailable. Cannot connect to game session.",
+		"success1": "Warning: 204 Conflict",
+		"success2": "Cannot connect to game session. Restart the game files and try again.",
+		"proxy1": "Error: 400 Bad Request",
+		"proxy2": "The server cannot or will not process the request due to an apparent client error. Try send request later."
+	}
+
+}

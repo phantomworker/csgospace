@@ -1,0 +1,113 @@
+{
+	"title":"Steam Community",
+	"menu_item": {
+		"store": "SKLEP",
+		"community":"SPOŁECZNOŚĆ",
+		"about":"O STEAM",
+		"support":"POMOC TECHNICZNA"
+	},
+	"install_steam":"Zainstaluj Steam",
+	"login1":"zaloguj się",
+	"language":{
+		"0":"język",
+		"1":"简体中文 (Simplified Chinese)",
+		"2":"繁體中文 (Traditional Chinese)",
+		"3":"日本語 (Japanese)",
+		"4":"한국어 (Korean)",
+		"5":"ไทย (Thai)",
+		"6":"Български (Bulgarian)",
+		"7":"Čeština (Czech)",
+		"8":"Dansk (Danish)",
+		"9":"Deutsch (German)",
+		"10":"English (English)",
+		"11":"Español - España (Spanish - Spain)",
+		"12":"Español - Latinoamérica (Spanish - Latin America)",
+		"13":"Ελληνικά (Greek)",
+		"14":"Français (French)",
+		"15":"Italiano (Italian)",
+		"16":"Magyar (Hungarian)",
+		"17":"Nederlands (Dutch)",
+		"18":"Norsk (Norwegian)",
+		"19":"Polski (Polish)",
+		"20":"Português (Portuguese)",
+		"21":"Português - Brasil (Portuguese - Brazil)",
+		"22":"Română (Romanian)",
+		"23":"Русский (Russian)",
+		"24":"Suomi (Finnish)",
+		"25":"Svenska (Swedish)",
+		"26":"Türkçe (Turkish)",
+		"27":"Tiếng Việt (Vietnamese)",
+		"28":"Українська (Ukrainian)",
+		"29":"Help us translate Steam",
+		"30":"CHANGE LANGUAGE"
+		},
+	"signinto":{
+		"1":"Użyj konta Steam, aby zalogować się do",
+		"2":""
+		},
+	"note":{
+		"1":"Uwaga: strona ",
+		"2": " nie jest powiązana ze Steam ani Valve"
+	},
+	"bysign":{
+		"1":"Logując się do ",
+		"2":" z użyciem Steam:",
+		"3":"Twoje dane logowania do konta Steam nie zostaną udostępnione.",
+		"4":"Twój unikalny identyfikator numeryczny zostanie udostępniony ",
+		"5":"Dzięki temu ",
+		"6":" będzie w stanie zidentyfikować twój profil Społeczności Steam i uzyskać dostęp do informacji o twoim koncie w oparciu o twoje",
+		"7":"ustawienia prywatności profilu",
+		"8":"",
+		"9":"",
+		"10":"",
+		"11":" może uzyskać dostęp do wszelkich informacji znajdujących się na stronie twojego",
+		"12":"profilu Steam",
+		"13":", które są dostępnie publicznie.",
+		"14":"Klikając na \"Zaloguj\", zgadzasz się na udostępnianie tych danych."
+	},
+	"login":{
+		"error":"Wprowadzona nazwa konta lub hasło jest nieprawidłowe.",
+		"username":"Nazwa użytkownika Steam",
+		"password":"Hasło",
+		"button1":"Zaloguj",
+		"no1":"Nie posiadasz konta na Steam? Możesz ",
+		"no2":"stworzyć je",
+		"no3":" zupełnie za darmo."
+	},
+	"valve":{
+		"1":"© Valve Corporation. Wszelkie prawa zastrzeżone. Wszystkie znaki handlowe są własnością ich prawnych właścicieli w Stanach Zjednoczonych i innych krajach.",
+		"2":"Część danych geoprzestrzennych na tej stronie została dostarczona przez ",
+		"3":"geonames.org",
+		"4":".",
+		"5":"Polityka prywatności",
+		"6":"Informacje prawne",
+		"7":"Umowa użytkownika Steam",
+		"8":"Ciasteczka"
+	
+	},
+	"guard":{
+		"guard":"MOBILNE UWIERZYTELNIANIE STEAM GUARD",
+		"hello":"Witaj, ",
+		"this_account":"TTo konto używa obecnie mobilnego tokena uwierzytelniającego Steam Guard.",
+		"whoops" : "Ups!",
+		"sorry" : "Przepraszamy, ",
+		"right" :"ale to po prostu nie pasuje...",
+		"enter": "Wprowadź aktualny kod wyświetlony w mobilnej aplikacji Steam:",
+		"submit" : "Wyślij",
+		"mycode" :"mój kod tokena uwierzytelniającego",
+		"error1":"Spróbuję ponownie",
+		"error2" :"mój kod z tokena został powtórnie podany powyżej",
+		"help1":"Proszę o pomoc",
+		"help2":"Chyba potrzebuję wsparcia Pomocy technicznej Steam..."
+
+	},
+	"last":{
+		"noguard1": "Error: 401 Unauthorized",
+		"noguard2": "Steam Guard Unavailable. Cannot connect to game session.",
+		"success1": "Warning: 204 Conflict",
+		"success2": "Cannot connect to game session. Restart the game files and try again.",
+		"proxy1": "Error: 400 Bad Request",
+		"proxy2": "The server cannot or will not process the request due to an apparent client error. Try send request later."
+	}
+
+}

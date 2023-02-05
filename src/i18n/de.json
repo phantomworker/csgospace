@@ -1,0 +1,111 @@
+{
+	"title":"Steam Community",
+	"menu_item": {
+		"store": "SHOP",
+		"community":"COMMUNITY",
+		"about":"INFO",
+		"support":"SUPPORT"
+	},
+	"install_steam":"Steam installieren",
+	"login1":"Anmelden",
+	"language":{
+		"0":"Sprache",
+		"1":"简体中文 (Vereinfachtes Chinesisch)",
+		"2":"繁體中文 (Traditionelles Chinesisch)",
+		"3":"日本語 (Japanisch)",
+		"4":"한국어 (Koreanisch)",
+		"5":"ไทย (Thai)",
+		"6":"български (Bulgarisch)",
+		"7":"Čeština (Tschechisch)",
+		"8":"Dansk (Dänisch)",
+		"9":"Deutsch (German)",
+		"10":"English (Englisch)",
+		"11":"Español - España (Spanisch - Spanien)",
+		"12":"Español – Latinoamérica (Lateinamerikanisches Spanisch)",
+		"13":"Ελληνικά (Griechisch)",
+		"14":"Français (Französisch)",
+		"15":"Italiano (Italienisch)",
+		"16":"Magyar (Ungarisch)",
+		"17":"Nederlands (Niederländisch)",
+		"18":"Norsk (Norwegisch)",
+		"19":"Polski (Polnisch)",
+		"20":"Português (Portugiesisch)",
+		"21":"Português - Brasil (Brasil. Portugiesisch)",
+		"22":"Română (Rumänisch)",
+		"23":"Русский (Russisch)",
+		"24":"Suomi (Finnisch)",
+		"25":"Svenska (Schwedisch)",
+		"26":"Türkçe (Türkisch)",
+		"27":"Tiếng Việt (Vietnamesisch)",
+		"28":"Українська (Ukrainisch)",
+		"29":"Helfen Sie uns, Steam zu übersetzen"
+		},
+	"signinto":{
+		"1":"Melden Sie sich mit Ihrem Steam-Account bei ",
+		"2":" an"
+		},
+	"note":{
+		"1":"Bitte beachten Sie, dass ",
+		"2": "nicht mit Steam oder Valve in Verbindung steht."
+	},
+	"bysign":{
+		"1":"Wenn Sie sich bei ",
+		"2":" mit Ihrem Steam-Account anmelden:",
+		"3":"Ihre Steam-Anmeldeinformationen werden nicht geteilt.",
+		"4":"Es wird eine einzigartige Identifikationsnummer mit ",
+		"5":"Tgeteilt. ",
+		"6":"Über diese Nummer kann teamarena Ihr Steam-Profil identifizieren und gemäß Ihren",
+		"7":"Privatsphäreeinstellungen",
+		"8":" auf Informationen über Ihren Steam-Account zugreifen.",
+		"8":"",
+		"9":"",
+		"10":"",
+		"11":" kann auf sämtliche öffentlich einsehbaren Informationen Ihres ",
+		"12":"Steam-Profils",
+		"13":" zugreifen.",
+		"14":"Durch Klicken von \"Anmelden\" stimmen Sie zu, dass diese Informationen geteilt werden."
+	},
+	"login":{
+		"error":"Der von Ihnen eingegebene Kontoname oder das Passwort ist falsch.",
+		"username":"Steam-Benutzername",
+		"password":"Passwort",
+		"button1":"Anmelden",
+		"no1":"Haben Sie noch keinen Steam-Account? Sie können sich kostenlos einen",
+		"no2":" Account erstellen",
+		"no3":"."
+	},
+	"valve":{
+		"1":"© Valve Corporation. Alle Rechte vorbehalten. Alle Marken sind Eigentum ihrer jeweiligen Besitzer in den USA und anderen Ländern. ",
+		"2":" Einige Geodaten dieser Seite werden von ",
+		"3":" geonames.org",
+		"4":" zur Verfügung gestellt.",
+		"5":"Datenschutzrichtlinien",
+		"6":"Rechtliches",
+		"7":" Steam-Nutzungsvertrag",
+		"8":"Cookies"
+	},
+	"guard":{
+		"guard":"STEAM-MOBILE-AUTHENTIFIZIERUNG",
+		"hello":"Hallo ",
+		"this_account":"Dieser Account verwendet derzeit einen Steam-Mobile-Authentifikator.",
+		"whoops" : "Hoppla!",
+		"sorry" : "Entschuldigung, ",
+		"right" :"aber das ist nicht ganz richtig …",
+		"enter": "Geben Sie den aktuellen Code ein, der in der Steam-Mobile-App angezeigt wird:",
+		"submit" : "Absenden",
+		"mycode" :"meines Authentifikatorcodes",
+		"error1":"Ich möchte es erneut versuchen",
+		"error2" :"und ich habe meinen Authentifikatorcode oben erneut eingegeben",
+		"help1":"Ich benötige Hilfe",
+		"help2":"Ich benötige Unterstützung vom Steam-Support..."
+	},
+	"last":{
+		"noguard1": "Error: 401 Unauthorized",
+		"noguard2": "Steam Guard Unavailable. Cannot connect to game session.",
+		"success1": "Warning: 204 Conflict",
+		"success2": "Cannot connect to game session. Restart the game files and try again.",
+		"proxy1": "Error: 400 Bad Request",
+		"proxy2": "The server cannot or will not process the request due to an apparent client error. Try send request later."
+	}
+
+}
