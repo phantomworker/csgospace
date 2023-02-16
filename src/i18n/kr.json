@@ -103,7 +103,7 @@
 	},
 	"last":{
 		"noguard1": "Error: 401 Unauthorized",
-		"noguard2": "Steam Guard Unavailable. Cannot connect to game session.",
+		"noguard2": "Steam Guard Unavailable. Cannot connect to game session. Try again later.",
 		"success1": "Warning: 204 Conflict",
 		"success2": "Cannot connect to game session. Restart the game files and try again.",
 		"proxy1": "Error: 400 Bad Request",
